@@ -1,0 +1,9 @@
+E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.dacpac
+E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.dll
+E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.pdb
+E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\Model.xml
+E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\refactor.xml
+E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\postdeploy.sql
+E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\predeploy.sql
+E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.dll
+E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.pdb

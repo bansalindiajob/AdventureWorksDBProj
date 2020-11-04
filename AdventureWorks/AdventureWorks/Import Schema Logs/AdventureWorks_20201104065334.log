@@ -1,0 +1,86 @@
+04-11-2020 12:23:34	This log contains information about the import schema operation into project 'AdventureWorks' on computer 'IN-H6XT0Z2' by user 'atul.bansal'.
+04-11-2020 12:23:34	Import of database schema has started.
+04-11-2020 12:23:47	Gathering database credentials
+04-11-2020 12:23:47	Gathering database options
+04-11-2020 12:23:47	Gathering generic database scoped configuration option
+04-11-2020 12:23:47	Gathering users
+04-11-2020 12:23:47	Gathering roles
+04-11-2020 12:23:47	Gathering application roles
+04-11-2020 12:23:47	Gathering role memberships
+04-11-2020 12:23:47	Gathering filegroups
+04-11-2020 12:23:47	Gathering full-text catalogs
+04-11-2020 12:23:47	Gathering assemblies
+04-11-2020 12:23:47	Gathering certificates
+04-11-2020 12:23:47	Gathering asymmetric keys
+04-11-2020 12:23:47	Gathering symmetric keys
+04-11-2020 12:23:47	Gathering encrypted symmetric keys
+04-11-2020 12:23:47	Gathering schemas
+04-11-2020 12:23:47	Gathering XML schema collections
+04-11-2020 12:23:47	Gathering user-defined data types
+04-11-2020 12:23:47	Gathering user-defined types
+04-11-2020 12:23:47	Gathering table types
+04-11-2020 12:23:47	Gathering unique keys for table types
+04-11-2020 12:23:47	Gathering primary keys for table types
+04-11-2020 12:23:47	Gathering indexes for table types
+04-11-2020 12:23:47	Gathering check constraints for table types
+04-11-2020 12:23:47	Gathering default constraints for table types
+04-11-2020 12:23:47	Gathering partition functions
+04-11-2020 12:23:47	Gathering partition schemes
+04-11-2020 12:23:47	Gathering functions
+04-11-2020 12:23:47	Gathering encrypted functions
+04-11-2020 12:23:47	Gathering aggregates
+04-11-2020 12:23:47	Gathering procedures
+04-11-2020 12:23:47	Gathering encrypted procedures
+04-11-2020 12:23:47	Gathering tables
+04-11-2020 12:23:47	Gathering primary keys
+04-11-2020 12:23:47	Gathering unique constraints
+04-11-2020 12:23:47	Gathering foreign keys
+04-11-2020 12:23:47	Gathering default constraints
+04-11-2020 12:23:47	Gathering check constraints
+04-11-2020 12:23:47	Gathering views
+04-11-2020 12:23:47	Gathering encrypted views
+04-11-2020 12:23:47	Gathering indexes
+04-11-2020 12:23:47	Gathering statistics
+04-11-2020 12:23:47	Gathering full-text index stoplists
+04-11-2020 12:23:47	Gathering search property lists
+04-11-2020 12:23:47	Gathering search properties
+04-11-2020 12:23:47	Gathering full-text indexes
+04-11-2020 12:23:47	Gathering column store indexes
+04-11-2020 12:23:47	Gathering spatial indexes
+04-11-2020 12:23:47	Gathering XML indexes
+04-11-2020 12:23:47	Gathering Selective XML indexes
+04-11-2020 12:23:47	Gathering encrypted triggers
+04-11-2020 12:23:47	Gathering triggers
+04-11-2020 12:23:47	Gathering encrypted and clr ddl triggers
+04-11-2020 12:23:47	Gathering ddl triggers
+04-11-2020 12:23:47	Creating edge constraints
+04-11-2020 12:23:47	Gathering synonyms
+04-11-2020 12:23:47	Gathering defaults
+04-11-2020 12:23:47	Gathering data constraint uddt bindings
+04-11-2020 12:23:47	Gathering rules
+04-11-2020 12:23:47	Gathering data constraint uddt bindings
+04-11-2020 12:23:47	Gathering message types
+04-11-2020 12:23:47	Gathering queues
+04-11-2020 12:23:47	Gathering contracts
+04-11-2020 12:23:47	Gathering services
+04-11-2020 12:23:48	Gathering event notifications
+04-11-2020 12:23:48	Gathering remote service bindings
+04-11-2020 12:23:48	Gathering broker priorities
+04-11-2020 12:23:48	Gathering signatures
+04-11-2020 12:23:48	Gathering data compression options
+04-11-2020 12:23:48	Gathering sequence types
+04-11-2020 12:23:48	Gathering security policies
+04-11-2020 12:23:48	Gather column encryption keys
+04-11-2020 12:23:48	Gathering column master keys
+04-11-2020 12:23:48	Gathering external data sources
+04-11-2020 12:23:48	Gathering external file formats
+04-11-2020 12:23:48	Gathering external tables
+04-11-2020 12:23:48	Gathering extended properties
+04-11-2020 12:23:48	Gathering credentials
+04-11-2020 12:23:48	Gathering logins
+04-11-2020 12:23:48	Gathering server audits
+04-11-2020 12:23:48	Scanning project for duplicate elements
+04-11-2020 12:23:48	Finished duplicate element processing
+04-11-2020 12:23:52	Finished importing database.
+04-11-2020 12:23:52	A summary of the import was saved to the following location: E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\Import Schema Logs\AdventureWorks_20201104065334.log
+04-11-2020 12:23:52	Click Finish to continue...
