@@ -7,3 +7,12 @@ E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\postdeplo
 E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\predeploy.sql
 E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.dll
 E:\Research\CICD\AW_DB_Project\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.pdb
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.dacpac
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.dll
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\bin\Debug\AdventureWorks.pdb
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\Model.xml
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\refactor.xml
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\postdeploy.sql
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\predeploy.sql
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.dll
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.pdb
