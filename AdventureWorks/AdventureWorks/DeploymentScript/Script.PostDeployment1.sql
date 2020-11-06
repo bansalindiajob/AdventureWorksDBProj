@@ -15,3 +15,4 @@ BEGIN
     INSERT INTO SalesLT.Product(Name,ProductNumber,SellStartDate)
     VALUES ('Product-1','P-001','2020/01/01');
 END 
+GO
