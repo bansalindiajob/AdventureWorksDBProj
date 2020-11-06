@@ -12,7 +12,7 @@ Post-Deployment Script Template
 
 IF NOT EXISTS (SELECT 1 FROM SalesLT.Product where Name = 'Product-1')
 BEGIN
-    INSERT INTO SalesLT.Product(Name,ProductNumber,SellStartDate)
-    VALUES ('Product-1','P-001','2020/01/01');
+    INSERT INTO SalesLT.Product(Name,ProductNumber,SellStartDate,StandardCost,ListPrice)
+    VALUES ('Product-1','P-001','2020/01/01',100,90);
 END 
 GO
