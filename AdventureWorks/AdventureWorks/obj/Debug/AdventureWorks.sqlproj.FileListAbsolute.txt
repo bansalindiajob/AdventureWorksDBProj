@@ -16,3 +16,4 @@ E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug
 E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\refactor.xml
 E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\postdeploy.sql
 E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\predeploy.sql
+E:\Research\Gittest\AdventureWorksDBProj\AdventureWorks\AdventureWorks\obj\Debug\AdventureWorks.sqlprojAssemblyReference.cache
